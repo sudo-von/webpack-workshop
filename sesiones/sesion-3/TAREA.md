@@ -1,6 +1,6 @@
 # Ejercicios
 
-Ejercicios propuestos para practicar lo visto en la 3tra sesión.
+Ejercicios propuestos para practicar lo visto en la 3ra sesión.
 
 ## Ejercicio 3
 
