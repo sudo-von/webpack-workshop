@@ -5,7 +5,9 @@
   "main": "index.js",
   "scripts": {
     "build:dev": "webpack --config ./laboratorios/laboratorio-2/webpack.dev.js",
-    "build:prod": "webpack --config ./laboratorios/laboratorio-2/webpack.prod.js"
+    "build:prod": "webpack --config ./laboratorios/laboratorio-2/webpack.prod.js",
+    "build:laboratorio-3:dev": "webpack --config ./laboratorios/laboratorio-3/webpack.dev.js",
+    "build:laboratorio-3:prod": "webpack --config ./laboratorios/laboratorio-3/webpack.prod.js"
   },
   "repository": {
     "type": "git",
