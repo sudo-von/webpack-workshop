@@ -5,6 +5,7 @@
     - <code>npm install --save-dev css-loader ts-loader typescript</code>
   - Descripción general:
     - Los Loaders son transformaciones que son aplicadas al código fuente de un módulo. Te permiten preprocesar archivos. Los loaders son como tareas, y estas pueden transformar archivos de diferentes lenguajes (como Typescript) a JavaScript o cargar imágenes como URLs. Los Loaders incluso te permiten hacer cosas como importar archivos CSS directamente en tus módulos de Javascript.
+  - En el siguiente ejemplo observarás una configuración que permitirá transformar el código de Typescript a JavaScript, esto es debido a que el navegador entiende JavaScript pero no entiende TypeScript por lo que necesitaremos transformar el código para que el navegador lo entienda.
     Ejemplo:
     ```javsacript
     module.exports = {

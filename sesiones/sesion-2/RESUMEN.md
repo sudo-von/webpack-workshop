@@ -8,7 +8,7 @@
       entry: './path/to/my/entry/file.js'
     };
     ```
-  -  Single Entry (Shorthand) syntax but passing an array:
+  - Single Entry (Shorthand) syntax but passing an array:
     ```javsacript
     module.exports = {
       entry: [ 

@@ -9,3 +9,4 @@
         "build:laboratorio-4:prod": "webpack --config ./laboratorios/laboratorio-4/webpack.prod.js"
     }
   ```
+5. Mientras que el archivo .ts utilizó const (de EcmaScript) y :string (de TypeScript) el archivo generado por el loader utilizó var y utilizó sólo código vanilla de Javascript.
