@@ -1,0 +1,23 @@
+{
+  "name": "webpack-workshop",
+  "version": "1.0.0",
+  "description": "Repositorio para organizar el contenido de un workshop de Webpack.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sudo-von/-webpack-workshop-.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sudo-von/-webpack-workshop-/issues"
+  },
+  "homepage": "https://github.com/sudo-von/-webpack-workshop-#readme",
+  "devDependencies": {
+    "webpack": "^5.11.0",
+    "webpack-cli": "^4.3.0"
+  }
+}
