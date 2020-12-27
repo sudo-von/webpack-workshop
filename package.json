@@ -4,7 +4,8 @@
   "description": "Repositorio para organizar el contenido de un workshop de Webpack.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build:dev": "webpack --config ./laboratorios/laboratorio-2/webpack.dev.js",
+    "build:prod": "webpack --config ./laboratorios/laboratorio-2/webpack.prod.js"
   },
   "repository": {
     "type": "git",
