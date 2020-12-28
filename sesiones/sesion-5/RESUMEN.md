@@ -4,7 +4,7 @@
 
   - Prerrequisitos:
     - Instalar html-webpack-plugin.
-    - <code>npm install --save-dev css-loader ts-loader typescript</code>
+    - <code>npm install --save-dev html-webpack-plugin</code>
   - Descripción general:
     - Cuando los loaders no son suficiente, podemos usar plugins para modificar o añadir capacidades a webpack.
   - En el siguiente ejemplo observarás una configuración que mediante el plugin HtmlWebPackPlugin generará un nuevo archivo HTML en la ruta indicada incluyendo la ruta del archivo my-first-webpack.bundle.js usando la etiqueta <script> de html, además, el plugin ProgressPlugin puede personalizar cómo será reportado el progreso durante la compilación.
