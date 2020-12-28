@@ -22,7 +22,7 @@
 ## Entry points
 
   - Descripción general:
-    - Es el objeto de entrada eb donde webpack busca para comenzar a construir el paquete. El contexto es una cadena absoluta al directorio que contiene los archivos de entrada.
+    - Es el objeto de entrada en donde webpack busca para comenzar a construir el paquete. El contexto es una cadena absoluta al directorio que contiene los archivos de entrada.
     - Hay muchas formas de declarar un punto de entrada en tu configuración de Webpack.
   
   - Single Entry (Shorthand) Syntax:
