@@ -9,6 +9,7 @@
   - Tener instalado Webpack CLI
     - <code>npm install --save-dev webpack-cli</code>
   ![Introducción](webpack.png)
+  ## ¿Qué es Webpack?
   - Descripción general:
     - Webpack es una herramienta Open Source utilizada por los desarrolladores para empaquetar y exportar todos los ficheros necesarios para que un proyecto funcione con todas sus dependencias, además de buscar la optimización de estos. Este gestiona todos los recursos de tu aplicación y los añade a su correspondiente bundle a través del grafo de dependencias.
   - Conceptos clave:
