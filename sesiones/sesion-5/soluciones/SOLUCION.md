@@ -1,6 +1,6 @@
 # Guía de Solución
 
-1. Instalar las siguientes dependencias: <code>npm install --save-dev css-loader ts-loader typescript</code>.
+1. Instalar las siguientes dependencias: <code>npm install --save-dev css-loader ts-loader typescript</code> además de tener que instanciar los plugins en los archivos de configuración.
 2. npm run build:laboratorio-5:dev
 3. npm run build:laboratorio-5:prod
 4. ```javascript
