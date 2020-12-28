@@ -9,7 +9,9 @@
     "build:laboratorio-3:dev": "webpack --config ./laboratorios/laboratorio-3/webpack.dev.js",
     "build:laboratorio-3:prod": "webpack --config ./laboratorios/laboratorio-3/webpack.prod.js",
     "build:laboratorio-4:dev": "webpack --config ./laboratorios/laboratorio-4/webpack.dev.js",
-    "build:laboratorio-4:prod": "webpack --config ./laboratorios/laboratorio-4/webpack.prod.js"
+    "build:laboratorio-4:prod": "webpack --config ./laboratorios/laboratorio-4/webpack.prod.js",
+    "build:laboratorio-5:dev": "webpack --config ./laboratorios/laboratorio-5/webpack.dev.js",
+    "build:laboratorio-5:prod": "webpack --config ./laboratorios/laboratorio-5/webpack.prod.js"
   },
   "repository": {
     "type": "git",
@@ -23,6 +25,8 @@
   "homepage": "https://github.com/sudo-von/-webpack-workshop-#readme",
   "devDependencies": {
     "css-loader": "^5.0.1",
+    "html-webpack-plugin": "^4.5.0",
+    "terser-webpack-plugin": "^5.0.3",
     "ts-loader": "^8.0.12",
     "webpack": "^5.11.0",
     "webpack-cli": "^4.3.0"

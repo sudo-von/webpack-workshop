@@ -4,7 +4,7 @@
 
 Repositorio para organizar el contenido de un workshop de Webpack.
 
-El workshop consta de 12 sesiones en donde se busca iniciar con los conceptos más básicos de Webpack, y llegar hasta tópicos más avanzados.
+El workshop consta de 6 sesiones base en donde se busca iniciar con los conceptos más básicos de Webpack, y otras sesiones extra para llegar hasta tópicos más avanzados.
 
 Puedes encontrar el contenido visto en cada una de las sesiones en la carpeta de [`sesiones`](sesiones/).
 

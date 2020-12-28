@@ -1,0 +1,1 @@
+(()=>{var e="¡Hola desde el index!";console.log(e),alert(e),document.body.innerHTML=e})();

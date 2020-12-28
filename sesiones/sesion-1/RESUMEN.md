@@ -17,7 +17,7 @@
     - Entry: Es el objeto de entrada en donde webpack busca para comenzar a construir el paquete. El contexto es una cadena absoluta al directorio que contiene los archivos de entrada.
     - Output: Indica cómo y en donde debería salir tu paquete.
     - Loaders: Procesa archivos y recursos para convertirlos en módulos que puedan ser consumidos en tu aplicacion.
-    - Plugins: Cuando los loaders no son suficiente, podemos usar plugins para modificar o añadir  capacidades a webpack.
+    - Plugins: Cuando los loaders no son suficiente, podemos usar plugins para modificar o añadir capacidades a webpack.
     - Mode: Indicará la forma en que se generará el bundle. Si este estará optimizado para producción, desarrollo, etc.
     - Watch: Después del build inicial, webpack estará al tanto de los nuevos cambios en cualquiera de los archivos indicados para generar un nuevo bundle.
 - Tarea: [TAREA.md](TAREA.md)
