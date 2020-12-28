@@ -20,6 +20,7 @@
       }
     };
     ```
+  - Las rules aceptan un arreglo, y dentro de este abrá objetos en donde se aplicará el loader indicado en 'use' a todos los archivos encontrados mediante test usando una expresión regular, en este caso todos los archivos con extensión css se les aplicará css-loader, mientras que a los .ts se les aplicará ts-loader.
   - Notas
     - Es importante aclarar que las rules serán ejecutadas de abajo hacia arriba o de derecha a izquierda por lo que en este caso primer ejecutará el loader de typescript y luego el de css.
     - Los loaders pueden ser síncronos o asíncronos.
