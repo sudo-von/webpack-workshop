@@ -1,5 +1,7 @@
 # Resumen - 4ta Sesión
 
+# Loaders
+
   - Prerrequisitos:
     - Instalar css-loader, ts-loader   y typescript.
     - <code>npm install --save-dev css-loader ts-loader typescript</code>
