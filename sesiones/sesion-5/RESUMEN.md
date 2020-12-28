@@ -30,7 +30,6 @@
       ]
     };
     ```
-  - Las rules aceptan un arreglo, y dentro de este abrá objetos en donde se aplicará el loader indicado en 'use' a todos los archivos encontrados mediante test usando una expresión regular, en este caso todos los archivos con extensión css se les aplicará css-loader, mientras que a los .ts se les aplicará ts-loader.
   - Notas
     - Debido a que los plugins pueden tomar argumentos/opciones, deberás pasar una nueva instancia del plugin en tu configuración de webpack.
     - Dependiendo en cómo usas webpack, hay muchas formas de usar plugins.
